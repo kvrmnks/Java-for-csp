@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<form xmlns="http://www.intellij.com/uidesigner/form/" version="1" bind-to-class="com.kvrmnks.Leading">
+  <grid id="27dc6" binding="panel1" default-binding="true" layout-manager="BorderLayout" hgap="0" vgap="0">
+    <constraints>
+      <xy x="20" y="20" width="300" height="138"/>
+    </constraints>
+    <properties>
+      <maximumSize width="300" height="70"/>
+      <minimumSize width="300" height="70"/>
+      <preferredSize width="400" height="125"/>
+    </properties>
+    <border type="none"/>
+    <children>
+      <grid id="d57e6" layout-manager="FlowLayout" hgap="5" vgap="5" flow-align="1">
+        <constraints border-constraint="South"/>
+        <properties/>
+        <border type="none"/>
+        <children>
+          <component id="85c6c" class="javax.swing.JButton" binding="linkButton" default-binding="true">
+            <constraints/>
+            <properties>
+              <text value="Link"/>
+            </properties>
+          </component>
+          <component id="4f81b" class="javax.swing.JButton" binding="resetButton" default-binding="true">
+            <constraints/>
+            <properties>
+              <text value="reset"/>
+            </properties>
+          </component>
+          <component id="bece" class="javax.swing.JButton" binding="closeButton" default-binding="true">
+            <constraints/>
+            <properties>
+              <text value="close"/>
+            </properties>
+          </component>
+        </children>
+      </grid>
+      <grid id="6f035" layout-manager="FlowLayout" hgap="5" vgap="5" flow-align="1">
+        <constraints border-constraint="Center"/>
+        <properties>
+          <minimumSize width="204" height="70"/>
+          <preferredSize width="300" height="200"/>
+        </properties>
+        <border type="none"/>
+        <children>
+          <grid id="5f61b" layout-manager="BorderLayout" hgap="0" vgap="0">
+            <constraints/>
+            <properties>
+              <minimumSize width="100" height="30"/>
+              <preferredSize width="200" height="30"/>
+              <requestFocusEnabled value="false"/>
+            </properties>
+            <border type="none"/>
+            <children>
+              <component id="d092b" class="javax.swing.JLabel">
+                <constraints border-constraint="West"/>
+                <properties>
+                  <text value="ip"/>
+                </properties>
+              </component>
+              <component id="9b189" class="javax.swing.JTextField" binding="textField1" default-binding="true">
+                <constraints border-constraint="Center"/>
+                <properties/>
+              </component>
+            </children>
+          </grid>
+          <grid id="2fff4" layout-manager="BorderLayout" hgap="0" vgap="0">
+            <constraints/>
+            <properties>
+              <preferredSize width="200" height="34"/>
+            </properties>
+            <border type="none"/>
+            <children>
+              <component id="bbe29" class="javax.swing.JLabel">
+                <constraints border-constraint="West"/>
+                <properties>
+                  <text value="port"/>
+                </properties>
+              </component>
+              <component id="cded5" class="javax.swing.JTextField" binding="textField2" default-binding="true">
+                <constraints border-constraint="Center"/>
+                <properties/>
+              </component>
+            </children>
+          </grid>
+        </children>
+      </grid>
+    </children>
+  </grid>
+</form>

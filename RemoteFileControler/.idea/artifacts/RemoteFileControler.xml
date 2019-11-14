@@ -1,0 +1,12 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="RemoteFileControler">
+    <output-path>$PROJECT_DIR$/out/artifacts/RemoteFileControler</output-path>
+    <root id="archive" name="RemoteFileControler.jar">
+      <element id="module-output" name="RemoteFileControler" />
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$PROJECT_DIR$/out/production/RemoteFileControler/com/kvrmnks/META-INF/MANIFEST.MF" />
+        <element id="file-copy" path="$PROJECT_DIR$/src/com/kvrmnks/META-INF/MANIFEST.MF" />
+      </element>
+    </root>
+  </artifact>
+</component>
