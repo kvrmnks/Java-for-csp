@@ -1,7 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4b88fd75-c48c-4757-8230-087e353a2885" name="Default Changelist" comment="" />
+    <list default="true" id="4b88fd75-c48c-4757-8230-087e353a2885" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../201703-3/201703-3.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PP11.1/PP11.1.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../201903-3/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../201903-3/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Orz/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Orz/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Test1/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Test1/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Test1/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Test1/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestForJava/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../TestForJava/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -15,7 +25,14 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="ProjectId" id="1SYwbYK6fzkAt4PfNi6SwvcktQG" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+  </component>
   <component name="RunDashboard">
     <option name="ruleStates">
       <list>
@@ -62,5 +79,18 @@
       <updated>1571753908862</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
